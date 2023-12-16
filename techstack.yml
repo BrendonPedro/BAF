@@ -1,0 +1,19 @@
+repo_name: BrendonPedro/BAF
+report_id: c5dff6da01dd50ffadf3c9d9fa804162
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-16T02:59:52+00:00'
+requested_by: BrendonPedro
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
